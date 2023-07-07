@@ -2,13 +2,13 @@
 <AppInstaller
   xmlns="http://schemas.microsoft.com/appx/appinstaller/2021"
   Version="1.0.0.0"
-  Uri="https://prismlauncher.org/prismUpdate.AppInstaller" >
+  Uri="https://msix.mydadleft.me/prismUpdate.AppInstaller" >
 
   <MainBundle
     Name="org.prismlauncher.PrismLauncher"
     Publisher="CN=Sefa Eyeoglu, O=Sefa Eyeoglu, S=Nordrhein-Westfalen, C=DE"
     Version="PRISM_VERSION_REPLACEME"
-    Uri="https://prismlauncher.org/prismlauncher-PRISM_VERSION_REPLACEME.msixbundle" />
+    Uri="https://msix.mydadleft.me/prismlauncher-PRISM_VERSION_REPLACEME.msixbundle" />
 
   <UpdateSettings>
     <OnLaunch
