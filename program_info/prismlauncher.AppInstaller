@@ -12,7 +12,7 @@
 
   <UpdateSettings>
     <OnLaunch
-      HoursBetweenUpdateChecks="1"
+      HoursBetweenUpdateChecks="0"
       ShowPrompt="true" />
     <ForceUpdateFromAnyVersion>true</ForceUpdateFromAnyVersion>
   </UpdateSettings>
